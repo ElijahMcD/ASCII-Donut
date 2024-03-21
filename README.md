@@ -1,2 +1,3 @@
 # ASCII Donut
- Rotating ASCII Donut in Python
+ Rotating ASCII Donut in Python with color shift.
+
